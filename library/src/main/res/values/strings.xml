@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="is_loading">正在加载…</string>
+    <string name="retry_load">重新加载</string>
+</resources>
